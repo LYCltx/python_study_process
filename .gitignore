@@ -1,0 +1,14 @@
+﻿# 虚拟环境（几千个文件，绝对不要传）
+.venv/
+venv/
+
+# PyCharm 配置
+.idea/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 其他
+.DS_Store
